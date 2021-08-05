@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ngyijie92@gmail.com
+	name = Yi Jie Ng ngyijie92@gmail.com
